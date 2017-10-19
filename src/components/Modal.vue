@@ -36,7 +36,6 @@
       } 
     }
   }
-
 </script>
 
 <style scoped>
@@ -77,6 +76,9 @@
 }
 .modal-body {
   margin: 20px 0;
+  padding: 0;
+}
+.modal-header {
   padding: 0;
 }
 .modal-default-button {
