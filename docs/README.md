@@ -1,6 +1,6 @@
 This project is based on <a href="https://bootstrap-vue.js.org/" target="_blank">bootstrap-vue</a>
 <br>
-Check the <a target="_blank" href="https://github.com/Miguel-Frazao/vuejs-bootstrap-demo/archive/master.zip">Demo here</a>
+Check the <a target="_blank" href="https://miguel-frazao.github.io/vuejs-bootstrap-demo/#/">Demo here</a>
 <br>
 <br>
 To clone: <code>git clone https://github.com/Miguel-Frazao/vuejs-bootstrap-demo.git</code>

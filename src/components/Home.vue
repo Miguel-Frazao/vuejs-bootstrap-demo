@@ -8,7 +8,7 @@
     <code>git clone https://github.com/Miguel-Frazao/vuejs-bootstrap-demo</code>
     <br>
     <br>
-    <b-button target="_blank" variant="primary" href="https://github.com/Miguel-Frazao/vuejs-bootstrap-demo" download>Download</b-button>
+    <b-button target="_blank" variant="primary" href="https://github.com/Miguel-Frazao/vuejs-bootstrap-demo/archive/master.zip" download>Download</b-button>
     <br>
     <br>
     <code>

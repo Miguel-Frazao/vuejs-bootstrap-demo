@@ -77,6 +77,7 @@
 }
 .modal-body {
   margin: 20px 0;
+  padding: 0;
 }
 .modal-default-button {
   float: right;
