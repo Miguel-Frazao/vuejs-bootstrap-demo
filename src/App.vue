@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" v-cloak>
     <nav-bar v-bind:products_cart="products_cart" v-bind:len_users="users.length" ref="navBar"></nav-bar>
     <b-container fluid class="main-container">
       <router-view :key="$route.path" v-bind:users="users" v-bind:products_cart="products_cart"></router-view>
@@ -36,9 +36,8 @@ export default {
 @import url('../node_modules/bootstrap-vue/dist/bootstrap-vue.css');
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 
-.seo-header {
-  display: none;
-}
+[v-cloak] { display:none }
+
 .inline-block {
   display: inline-block;
 }
